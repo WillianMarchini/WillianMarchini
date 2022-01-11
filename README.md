@@ -22,3 +22,16 @@
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 "Um ser humano deve transformar informação em inteligência ou conhecimento. Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta." G.H.
+
+<!--Games e afins
+<div style="display: inline-block"></br>
+
+<img align="center" alt="Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+<img align="center" alt="XBox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img align="center" alt="Follows" src="https://img.shields.io/github/followers/{WillianMarchini}.svg?style=social&label=Follow&maxAge=2592000" />
+
+
+</div> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianMarchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
