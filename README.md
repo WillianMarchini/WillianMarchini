@@ -22,8 +22,6 @@
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
-"Um ser humano deve transformar informação em inteligência ou conhecimento. Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta." G.H.
-
 <!--Games e afins
 <div style="display: inline-block"></br>
 
